@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  border-bottom: 2px solid #145e69;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+}
+.contact :nth-child(1) {
+  color: #3f787b;
+}
