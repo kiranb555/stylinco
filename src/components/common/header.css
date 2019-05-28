@@ -1,8 +1,12 @@
 .header {
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
   padding: 20px 30px;
   border-bottom: 2px solid #145e69;
+}
+.logo img {
+  width: 100%;
 }
 .contact {
   display: flex;
@@ -13,4 +17,10 @@
 }
 .contact :nth-child(1) {
   color: #3f787b;
+}
+
+@media only screen and (max-width: 600px) {
+  .header {
+    flex-direction: column;
+  }
 }
