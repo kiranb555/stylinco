@@ -1,0 +1,32 @@
+h1 {
+  color: #145e69;
+}
+.mainBody {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 20px;
+}
+.mainBody > .contentBody {
+  flex: 2;
+  text-align: justify;
+  margin: 5px;
+}
+.mainBody > .contactForm {
+  flex: 1;
+  margin: 5px;
+}
+.contactForm {
+  background-color: #145e69;
+}
+
+@media only screen and (max-width: 768px) {
+  .mainBody {
+    flex-direction: column;
+  }
+  .mainBody > .contentBody {
+    flex: auto;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+}

@@ -1,0 +1,33 @@
+.contact-form-cls > form {
+  display: flex;
+  flex-direction: column;
+}
+.contact-form-cls {
+  padding: 0px 20px;
+  color: #fff;
+}
+form input {
+  padding: 10px;
+}
+.note {
+  padding-bottom: 10px;
+}
+form button {
+  color: #fff;
+  padding: 10px;
+  font-weight: bold;
+  background: -webkit-linear-gradient(
+    top,
+    #483d2e 0%,
+    #483d2e 52%,
+    #352a21 54%,
+    #352a21 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    #483d2e 0%,
+    #483d2e 52%,
+    #352a21 54%,
+    #352a21 100%
+  );
+}
