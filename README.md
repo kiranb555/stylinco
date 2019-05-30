@@ -3,6 +3,7 @@ Kiran #git hub page deploy
 write a script in package.json to create new branch where it will be consisting only build file
 #npm run build
 #npm run deploy
+https://www.youtube.com/watch?v=SKXkC4SqtRk
 
 ---
 
