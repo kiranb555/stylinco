@@ -8,7 +8,7 @@ const Header = () => {
     details: "Talk to the Divorce Attorney Today"
   });
   return (
-    <div className="header">
+    <div className="header" id="header">
       <div className="logo">
         <img src={brand} />
       </div>

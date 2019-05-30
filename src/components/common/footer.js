@@ -24,11 +24,17 @@ function Footer() {
           <div>{Details[0]["map"]}</div>
         </div>
         <div className="footer-nav">
-          <div>Home</div>
+          <a href="#header">
+            <div>Home</div>
+          </a>
           {span}
-          <div>About our firm</div>
+          <a href="#">
+            <div>About our firm</div>
+          </a>
           {span}
-          <div>Contact Us</div>
+          <a href="#">
+            <div>Contact Us</div>
+          </a>
         </div>
         <div />
       </div>
