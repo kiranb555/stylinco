@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d8a12ce.chunk.css",
+    "main.js": "/static/js/main.d24f0ac0.chunk.js",
+    "main.js.map": "/static/js/main.d24f0ac0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.935a9550.chunk.js": "/static/js/2.935a9550.chunk.js",
+    "static/js/2.935a9550.chunk.js.map": "/static/js/2.935a9550.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dc84e2ed13fa63aaca2d3e33a6d2fbc5.js": "/precache-manifest.dc84e2ed13fa63aaca2d3e33a6d2fbc5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3d8a12ce.chunk.css.map": "/static/css/main.3d8a12ce.chunk.css.map",
+    "static/media/bg-attorney-ppc.jpg": "/static/media/bg-attorney-ppc.7b00f4a1.jpg",
+    "static/media/bg-banner-ppc.jpg": "/static/media/bg-banner-ppc.7442efcd.jpg",
+    "static/media/index.css": "/static/media/body-background-ppc.27999e97.jpg",
+    "static/media/brand-ppc.png": "/static/media/brand-ppc.0955c2b9.png"
+  }
+}
