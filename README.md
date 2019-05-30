@@ -1,3 +1,11 @@
+Kiran #git hub page deploy
+#npm i gh-page
+write a script in package.json to create new branch where it will be consisting only build file
+#npm run build
+#npm run deploy
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
