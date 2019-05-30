@@ -1,3 +1,19 @@
 .banner img {
   width: 100%;
 }
+.flexArea {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+.lower-content {
+  padding: 25px;
+  text-align: initial;
+}
+
+@media only screen and (max-width: 768px) {
+  .flexArea {
+    flex-direction: column;
+  }
+}

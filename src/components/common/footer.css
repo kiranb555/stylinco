@@ -17,6 +17,7 @@
 .footer-details div,
 .footer-nav div {
   padding: 0px 10px;
+  text-align: center;
 }
 .footer-nav {
   padding-top: 20px;
