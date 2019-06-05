@@ -1,5 +1,5 @@
 Kiran #git hub page deploy
-#npm i gh-page
+#npm i gh-pages
 write a script in package.json to create new branch where it will be consisting only build file
 #npm run build
 #npm run deploy
